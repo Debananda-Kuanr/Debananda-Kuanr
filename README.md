@@ -66,11 +66,18 @@ Hi, I'm **Debananda Kuanr** – a passionate **Frontend Developer**, enthusiasti
 
 ---
 
-### 📈 GitHub Metrics (Auto-updated)
+## 📈 GitHub Metrics (Auto-updated)  
 
-<p align="center">
-  <img src="https://github.com/Debananda-Kuanr/Debananda-Kuanr/blob/main/metrics.svg" alt="GitHub Metrics" />
-</p>
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Debananda-Kuanr&style=for-the-badge&color=blue)  
+![Followers](https://img.shields.io/github/followers/Debananda-Kuanr?style=for-the-badge&color=brightgreen)  
+![Stars](https://img.shields.io/github/stars/Debananda-Kuanr?style=for-the-badge&color=yellow)  
+![Repos](https://img.shields.io/badge/Public%20Repos-🔥-orange?style=for-the-badge)  
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Debananda-Kuanr&theme=dracula" alt="Profile Summary"/>  
+
+</div>
 
 ---
 
@@ -84,9 +91,9 @@ Hi, I'm **Debananda Kuanr** – a passionate **Frontend Developer**, enthusiasti
 
 ### 🗓️ Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Debananda-Kuanr&theme=github-compact" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=supriyapanda&theme=dracula&hide_border=true" alt="activity graph"/>
+</div>
 
 ---
 
