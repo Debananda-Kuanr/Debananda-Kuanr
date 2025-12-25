@@ -30,7 +30,7 @@ Hi, I'm **Debananda Kuanr** – a passionate **Frontend Developer**, enthusiasti
 
 <div align="center">
 
-<h3>⚡ Tech Stack</h3>
+
 
 <div style="
   max-width: 720px;
