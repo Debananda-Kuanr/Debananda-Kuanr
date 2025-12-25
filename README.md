@@ -27,42 +27,34 @@ Hi, I'm **Debananda Kuanr** – a passionate **Frontend Developer**, enthusiasti
 
 ### 🛠️ Skills
 
+
 <div align="center">
-  <div style="
-    display: inline-block;
-    padding: 25px 30px;
-    border-radius: 18px;
-    background: linear-gradient(135deg, #1f1f1f, #2a2a2a);
-    box-shadow: 0 12px 30px rgba(0,0,0,0.4);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  "
-  onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 18px 40px rgba(0,0,0,0.6)'"
-  onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 12px 30px rgba(0,0,0,0.4)'"
-  >
 
-  <h3 style="
-    color:#ffffff;
-    font-family: Arial, sans-serif;
-    letter-spacing: 1px;
-    margin-bottom: 18px;
-  ">
-    🚀 Tech Stack
-  </h3>
+<h3>⚡ Tech Stack</h3>
 
-  <p style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Core%20Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  </p>
+<div style="
+  max-width: 720px;
+  padding: 20px;
+  border-radius: 14px;
+  border: 1px solid #30363d;
+  background: #0d1117;
+  box-shadow:
+    0 0 10px rgba(88,166,255,0.25),
+    0 0 25px rgba(88,166,255,0.15);
+">
 
-  </div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Core%20Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</div>
 </div>
 
 ---
