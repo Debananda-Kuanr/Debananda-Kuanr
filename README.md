@@ -109,7 +109,7 @@ Hi, I'm **Debananda Kuanr** – a passionate **Frontend Developer**, enthusiasti
 ### 🗓️ Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=supriyapanda&theme=dracula&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debananda-Kuanr&theme=dracula&hide_border=true" alt="activity graph"/>
 </div>
 
 ---
