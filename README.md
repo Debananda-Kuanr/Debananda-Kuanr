@@ -70,7 +70,6 @@ Hi, I'm **Debananda Kuanr** – a passionate **Frontend Developer**, enthusiasti
 <br>
 
 <img src="https://img.shields.io/badge/DSA%20IN%20C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-7c3aed?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
