@@ -49,6 +49,10 @@ Hi, I'm **Debananda Kuanr** – a passionate **Frontend Developer**, enthusiasti
 
 <tr>
 <td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=python" width="85"/><br><br>
+<b>Python</b>
+</td>
+<td align="center" width="140">
 <img src="https://skillicons.dev/icons?i=mysql" width="85"/><br><br>
 <b>MySQL</b>
 </td>
@@ -60,11 +64,27 @@ Hi, I'm **Debananda Kuanr** – a passionate **Frontend Developer**, enthusiasti
 <img src="https://skillicons.dev/icons?i=tailwind" width="85"/><br><br>
 <b>Tailwind CSS</b>
 </td>
+</tr>
+
+<tr>
 <td align="center" width="140">
 <img src="https://skillicons.dev/icons?i=mongodb" width="85"/><br><br>
 <b>MongoDB</b>
 </td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=git" width="85"/><br><br>
+<b>Git</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=github" width="85"/><br><br>
+<b>GitHub</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=vscode" width="85"/><br><br>
+<b>VS Code</b>
+</td>
 </tr>
+
 </table>
 
 <br>
