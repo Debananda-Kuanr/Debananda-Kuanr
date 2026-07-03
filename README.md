@@ -53,23 +53,23 @@ Hi, I'm **Debananda Kuanr** – a passionate **Frontend Developer**, enthusiasti
 <b>Python</b>
 </td>
 <td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=mysql" width="85"/><br><br>
-<b>MySQL</b>
-</td>
-<td align="center" width="140">
 <img src="https://skillicons.dev/icons?i=c" width="85"/><br><br>
 <b>C Language</b>
 </td>
 <td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=tailwind" width="85"/><br><br>
-<b>Tailwind CSS</b>
+<img src="https://skillicons.dev/icons?i=mysql" width="85"/><br><br>
+<b>MySQL</b>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=mongodb" width="85"/><br><br>
+<b>MongoDB</b>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=mongodb" width="85"/><br><br>
-<b>MongoDB</b>
+<img src="https://skillicons.dev/icons?i=tailwind" width="85"/><br><br>
+<b>Tailwind CSS</b>
 </td>
 <td align="center" width="140">
 <img src="https://skillicons.dev/icons?i=git" width="85"/><br><br>
@@ -89,13 +89,11 @@ Hi, I'm **Debananda Kuanr** – a passionate **Frontend Developer**, enthusiasti
 
 <br>
 
-<img src="https://img.shields.io/badge/DSA%20IN%20C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA%20in%20C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 </div>
-
----
 
 
 # 📊 GitHub Analytics
