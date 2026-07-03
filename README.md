@@ -28,58 +28,62 @@ Hi, I'm **Debananda Kuanr** – a passionate **Frontend Developer**, enthusiasti
 <div align="center">
 
 <table>
+
 <tr>
-<td align="center" width="140">
+<td align="center" width="180">
 <img src="https://skillicons.dev/icons?i=html" width="85"/><br><br>
 <b>HTML5</b>
 </td>
-<td align="center" width="140">
+<td align="center" width="180">
 <img src="https://skillicons.dev/icons?i=css" width="85"/><br><br>
 <b>CSS3</b>
 </td>
-<td align="center" width="140">
+<td align="center" width="180">
 <img src="https://skillicons.dev/icons?i=js" width="85"/><br><br>
 <b>JavaScript</b>
 </td>
-<td align="center" width="140">
+</tr>
+
+<tr>
+<td align="center" width="180">
 <img src="https://skillicons.dev/icons?i=java" width="85"/><br><br>
 <b>Core Java</b>
 </td>
-</tr>
-
-<tr>
-<td align="center" width="140">
+<td align="center" width="180">
 <img src="https://skillicons.dev/icons?i=python" width="85"/><br><br>
 <b>Python</b>
 </td>
-<td align="center" width="140">
+<td align="center" width="180">
 <img src="https://skillicons.dev/icons?i=c" width="85"/><br><br>
 <b>C Language</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=mysql" width="85"/><br><br>
-<b>MySQL</b>
-</td>
-<td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=mongodb" width="85"/><br><br>
-<b>MongoDB</b>
 </td>
 </tr>
 
 <tr>
-<td align="center" width="140">
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=mysql" width="85"/><br><br>
+<b>MySQL</b>
+</td>
+<td align="center" width="180">
+<img src="https://skillicons.dev/icons?i=mongodb" width="85"/><br><br>
+<b>MongoDB</b>
+</td>
+<td align="center" width="180">
 <img src="https://skillicons.dev/icons?i=tailwind" width="85"/><br><br>
 <b>Tailwind CSS</b>
 </td>
-<td align="center" width="140">
+</tr>
+
+<tr>
+<td align="center" width="180">
 <img src="https://skillicons.dev/icons?i=git" width="85"/><br><br>
 <b>Git</b>
 </td>
-<td align="center" width="140">
+<td align="center" width="180">
 <img src="https://skillicons.dev/icons?i=github" width="85"/><br><br>
 <b>GitHub</b>
 </td>
-<td align="center" width="140">
+<td align="center" width="180">
 <img src="https://skillicons.dev/icons?i=vscode" width="85"/><br><br>
 <b>VS Code</b>
 </td>
@@ -94,7 +98,6 @@ Hi, I'm **Debananda Kuanr** – a passionate **Frontend Developer**, enthusiasti
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 </div>
-
 
 # 📊 GitHub Analytics
 
