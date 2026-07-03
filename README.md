@@ -112,14 +112,7 @@ Hi, I'm **Debananda Kuanr** – a passionate **Frontend Developer**, enthusiasti
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Debananda-Kuanr&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
-
-</div>
-
+## 📊 Contribution Calendar <div align="center"> <img src="https://ghchart.rshah.org/00ff00/Debananda-Kuanr" alt="GitHub Contribution Chart"/> </div>
 ---
 
 # 📈 GitHub Metrics
